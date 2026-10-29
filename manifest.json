@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Level Up \u2014 Habit & Progress Tracker",
+  "short_name": "Level Up",
+  "description": "A personal RPG-style habit, focus, goals, and quality tracker.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
